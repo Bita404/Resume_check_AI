@@ -1,0 +1,6 @@
+python-telegram-bot
+Flask
+sentence-transformers
+requests
+pdfplumber
+python-docx
