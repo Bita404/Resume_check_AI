@@ -1,2 +1,2 @@
 # Resume_check_AI
-a telegram Bot that checks your resume as a pdf or dox file and rate it !
+I dont know how the hell do I run it on a server
